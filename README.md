@@ -6,7 +6,7 @@
 
 1. Клонировать репозиторий и перейти в папку:
    ```bash
-   git clone <ссылка_на_ваш_репозиторий>
+   git clone https://github.com/homaggggg/terminology_service
    cd terminology_service
    ```
 2. Создать и активировать виртуальное окружение:
